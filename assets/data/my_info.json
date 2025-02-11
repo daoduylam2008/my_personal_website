@@ -1,0 +1,18 @@
+{
+    "name": {
+        "first name": "Lam",
+        "last name": "Dao",
+        "middle name": "Duy"
+    },
+    "date of birth": "08/31/2008",
+    "grade": "11",
+    "about": "My nam is Lam Dao, I'm from Vietnam and a 12th grade student study abroad in Florida Preparatory Academy. I have a deep passion for Computer Science and plan to major in it when I apply to college. \n\nBeyond academics, I love traveling, tramping and trailing, exploring nature--especially mountainous landscape. Music is also an important part of my life, and I enjoy singing and beatboxing.\n\nI have been programming since I was 12 years old and am proficient in Python, Dart, C++, Swift. Additionally, I enjoy playing chess, and was proud to earn a team-bronze medal with my teammates in 7th grade. \n\nSports are another big interest of mine. I particularly love soccer, but I also enjoy playing volleyball, basketball.",
+    "contact_info": {
+        "gmail": "daoduylam2020@gmail.com",
+        "facebook": "https://www.facebook.com/lam.ao.830483/",
+        "linkedIn": "https://www.linkedin.com/in/lam-dao-65b439349/",
+        "github": "https://github.com/daoduylam2008",
+        "instagram": "https://www.instagram.com/daoduylam2008/",
+        "phone_number": "+1 239 281 8013"
+    }
+}
